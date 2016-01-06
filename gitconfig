@@ -1,3 +1,6 @@
+[user]
+  email = ke_pan@yeah.net
+  name = ke-pan
 [init]
   templatedir = ~/.git_template
 [push]
