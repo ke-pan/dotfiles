@@ -1,3 +1,6 @@
+export NVM_DIR="/Users/baozou/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
+
 # load custom executable functions
 for function in ~/.zsh/functions/*; do
   source $function
